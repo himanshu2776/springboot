@@ -13,7 +13,7 @@
 	<artifactId>SampleWebServices1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SampleWebServices1</name>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
