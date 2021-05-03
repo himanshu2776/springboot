@@ -1,0 +1,6 @@
+applications:
+- name: SampleWebServices1
+path: target/SampleWebServices1-0.0.1-SNAPSHOT.jar
+domain: cfapps.io
+memory: 1990M
+instances: 1
